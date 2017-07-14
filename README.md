@@ -1,1 +1,1 @@
-# WCFBinding
+A simple WCF binding example.
