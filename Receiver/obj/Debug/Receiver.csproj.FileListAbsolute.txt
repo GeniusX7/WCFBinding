@@ -1,0 +1,6 @@
+D:\testexsample\WCFBinding\Receiver\bin\Debug\Receiver.exe.config
+D:\testexsample\WCFBinding\Receiver\bin\Debug\Receiver.exe
+D:\testexsample\WCFBinding\Receiver\bin\Debug\Receiver.pdb
+D:\testexsample\WCFBinding\Receiver\obj\Debug\Receiver.csprojResolveAssemblyReference.cache
+D:\testexsample\WCFBinding\Receiver\obj\Debug\Receiver.exe
+D:\testexsample\WCFBinding\Receiver\obj\Debug\Receiver.pdb

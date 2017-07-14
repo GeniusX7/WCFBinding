@@ -1,0 +1,6 @@
+D:\testexsample\WCFBinding\Sender\bin\Debug\Sender.exe.config
+D:\testexsample\WCFBinding\Sender\bin\Debug\Sender.exe
+D:\testexsample\WCFBinding\Sender\bin\Debug\Sender.pdb
+D:\testexsample\WCFBinding\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+D:\testexsample\WCFBinding\Sender\obj\Debug\Sender.exe
+D:\testexsample\WCFBinding\Sender\obj\Debug\Sender.pdb
